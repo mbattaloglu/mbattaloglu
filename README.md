@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @mbattaloglu
-- 👀 I’m interested in Game Development/Mobile Applications
-- 👨‍💻 I'm Game Developer 
+- 👀 I’m interested in Game Development/Mobile Applications/Frontend Development
