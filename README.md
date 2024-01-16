@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @mbattaloglu
-- 👀 I’m interested in Game Development/Mobile Applications/Frontend Development
+- 🧑🏻‍💻 Frontend Developer Trainee at Devexperts
