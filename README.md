@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @mbattaloglu
-- 🧑🏻‍💻 Frontend Developer Trainee at Devexperts
+- 🧑🏻‍💻 Frontend Developer
