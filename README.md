@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @mbattaloglu
-- 🧑🏻‍💻 Frontend Developer
+- 🧑🏻‍💻 Game Developer(mainly) and Frontend Developer
